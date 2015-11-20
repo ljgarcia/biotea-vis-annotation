@@ -1,0 +1,13 @@
+<testsuite name="Mocha Tests" tests="1" failures="1" errors="1" skipped="0" timestamp="2015-11-20T16:48:57" time="0.003">
+<testcase classname="biotea-vis-annotation module" name="should return a hello" time="0.001"><failure message="window is not defined"><![CDATA[ReferenceError: window is not defined
+    at loadData (D:\workspace\biotea-vis-annotation\lib\AnnotationViewer.js:9:525)
+    at new AnnotationViewer (D:\workspace\biotea-vis-annotation\lib\AnnotationViewer.js:9:915)
+    at Context.&lt;anonymous&gt; (D:\workspace\biotea-vis-annotation\test\unit\test_biojsvispinpad.js:26:24)
+    at callFn (D:\workspace\biotea-vis-annotation\node_modules\mocha\lib\runnable.js:250:21)
+    at Test.Runnable.run (D:\workspace\biotea-vis-annotation\node_modules\mocha\lib\runnable.js:243:7)
+    at Runner.runTest (D:\workspace\biotea-vis-annotation\node_modules\mocha\lib\runner.js:373:10)
+    at D:\workspace\biotea-vis-annotation\node_modules\mocha\lib\runner.js:451:12
+    at next (D:\workspace\biotea-vis-annotation\node_modules\mocha\lib\runner.js:298:14)
+    at D:\workspace\biotea-vis-annotation\node_modules\mocha\lib\runner.js:308:7
+    at next (D:\workspace\biotea-vis-annotation\node_modules\mocha\lib\runner.js:246:23)]]></failure></testcase>
+</testsuite>
