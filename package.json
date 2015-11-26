@@ -61,8 +61,7 @@
       "/build/AnnotationViewer.js"
     ],
     "css": [
-      "/build/pp_fontello.css",
-      "/build/pp_main.css"
+      "/build/main.css"
     ],
     "snippets": [
       "snippets"

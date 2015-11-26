@@ -1,0 +1,24 @@
+div.biotea_tooltip {
+    position: absolute;
+    text-align: left;
+    min-width: 100px;
+    padding: 5px;
+    font: 12px sans-serif;
+    border: 0px;
+    border-radius: 2px;
+    pointer-events: none;
+}
+.biotea_tooltip_table {
+    border: 1px solid black;
+}
+.biotea_tooltip_header {
+    background: grey;
+    color: white;
+    padding: 3px;
+}
+
+.biotea_tooltip_body {
+    background: lightgrey;
+    color: black;
+    padding: 3px;
+}
