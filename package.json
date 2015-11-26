@@ -13,12 +13,7 @@
   "bugs": {
     "url": "https://github.com/ljgarcia/biotea-vis-annotation/issues"
   },
-  "licenses": [
-    {
-      "type": "Apache 2",
-      "url": "https://github.com/ljgarcia/biotea-vis-annotation/blob/master/LICENSE"
-    }
-  ],
+  "license": "Apache-2.0",
   "main": "lib/AnnotationViewer.js",
   "scripts": {
     "test": "gulp test",
