@@ -11,3 +11,4 @@ coverage/
 config.rb
 *.iml
 xunit.xml
+.settings/
