@@ -5,6 +5,6 @@ yourDiv.appendChild(appDiv);
 var app = require("biotea-vis-annotation");
 var instance = new app({
     el: appDiv,
-    path: 'http://localhost:9090/data/',
+    path: 'http://localhost:9090/snippets/data/',
     id: 1669719
 });
