@@ -1,6 +1,6 @@
 {
   "name": "biotea-vis-annotation",
-  "description": "A component to pin tootlip-like information",
+  "description": "A component to render a cloud of tags corresponding to Biotea annotations",
   "version": "0.1.0",
   "homepage": "https://github.com/ljgarcia/biotea-vis-annotation",
   "author": {

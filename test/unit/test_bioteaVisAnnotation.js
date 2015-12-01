@@ -1,7 +1,4 @@
 /*
- * biojs-vis-pinpad
- * https://github.com/ljgarcia/biojs-vis-pinpad
- *
  * Copyright (c) 2014 ljgarcia
  * Licensed under the Apache 2 license.
  */
