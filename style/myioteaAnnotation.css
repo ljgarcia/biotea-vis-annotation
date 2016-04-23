@@ -1,0 +1,34 @@
+div.biotea_annot_tooltip {
+    z-index: 50000;
+    position: absolute;
+    text-align: left;
+    min-width: 100px;
+    padding: 3px;
+    border: 0px;
+    border-radius: 2px;
+    pointer-events: none;
+    background: white;
+}
+.biotea_annot_tooltip_table, div.biotea_annot_tooltip table {
+    border: 1px solid grey;
+    font-weight: lighter;
+    font-size: .8em;
+    font-family: Calibri, sans-serif;
+    border-collapse: initial;
+}
+
+.biotea_annot_tooltip_header, div.biotea_annot_tooltip th {
+    background: grey;
+    color: white;
+    padding: 3px;
+}
+
+.biotea_annot_tooltip_body, div.biotea_annot_tooltip td {
+    background: lightgrey;
+    color: black;
+    padding: 3px;
+}
+
+.biotea_annot_show_tooltip {
+    cursor: help;
+}
