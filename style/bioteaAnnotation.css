@@ -3,11 +3,11 @@ div.biotea_annot_tooltip {
     position: absolute;
     text-align: left;
     min-width: 100px;
+    max-width: 350px;
     padding: 3px;
     border: 0px;
     border-radius: 2px;
     pointer-events: none;
-    background: white;
 }
 .biotea_annot_tooltip_table, div.biotea_annot_tooltip table {
     border: 1px solid grey;
@@ -15,6 +15,7 @@ div.biotea_annot_tooltip {
     font-size: .8em;
     font-family: Calibri, sans-serif;
     border-collapse: initial;
+    background: white;
 }
 
 .biotea_annot_tooltip_header, div.biotea_annot_tooltip th {
