@@ -7,5 +7,6 @@ var instance = new app({
     el: appDiv,
     path: 'http://localhost:9090/snippets/data/',
     id: 1669719,
-    filter: ['ANAT', 'GENE', 'GNPT', 'TAXA', 'PHYS']
+    highlightedTermsId: ['umls:C0030664'],
+    filter: ['ANAT', 'GENE', 'GNPT', 'TAXA', 'PHYS', 'OCCU']
 });
